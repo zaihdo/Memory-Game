@@ -14,7 +14,7 @@ INSTALLATION and HOW TO USE:
 
 Due to the game being a desktop browser app, no installation is required. The game is not yet live but I plan on publishing it under a domain name shortly. To launch the game, the index.html file can be run via any browser.
 
-In a devloper's point of view. The code is fairly starightforward and includes documentation wherever there are ambiguities. 
+In a devloper's point of view. The code is fairly straightforward and includes documentation wherever there are ambiguities. 
 
 CREDITS:
 
